@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rohit Kumar Vishwakarma and I'm a Cloud and Devops Engineer, fturom Mumbai</h2>
+<h2 align="left">Hi 👋! My name is Rohit Kumar Vishwakarma and I'm a Cloud and Devops Engineer, form Mumbai</h2>
 
 ###
 
